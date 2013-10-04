@@ -38,6 +38,7 @@ Disallow: /MAINTAINERS.txt
 Disallow: /update.php
 Disallow: /UPGRADE.txt
 Disallow: /xmlrpc.php
+Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
